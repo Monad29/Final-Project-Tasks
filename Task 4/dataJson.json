@@ -1,0 +1,42 @@
+[
+  {
+    "Firstname": "luka",
+    "Surname": "gvazava",
+    "Idnumber": "53001002435",
+    "Id": 1,
+    "Password": "3234",
+    "Balance": 430
+  },
+  {
+    "Firstname": "gocha",
+    "Surname": "gvazava",
+    "Idnumber": "53001002435",
+    "Id": 2,
+    "Password": "1244",
+    "Balance": 400
+  },
+  {
+    "Firstname": "Jake",
+    "Surname": "Gyllenhall",
+    "Idnumber": "94003009412",
+    "Id": 3,
+    "Password": "6666",
+    "Balance": 0
+  },
+  {
+    "Firstname": "Luka",
+    "Surname": "Gvazava",
+    "Idnumber": "62001001001",
+    "Id": 4,
+    "Password": "4444",
+    "Balance": 210
+  },
+  {
+    "Firstname": "Mr",
+    "Surname": "Robot",
+    "Idnumber": "94003009412",
+    "Id": 5,
+    "Password": "1234",
+    "Balance": 0
+  }
+]
